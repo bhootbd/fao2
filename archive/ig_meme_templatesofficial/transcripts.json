@@ -12,12 +12,14 @@
  "000004_0": {
   "language": "en",
   "language_probability": 0.82,
-  "text": "Is it just how fast the night changes?"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000004_1": {
   "language": "en",
   "language_probability": 0.82,
-  "text": "Is it just how fast the night changes?"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000005_0": {
   "language": "en",
@@ -32,7 +34,8 @@
  "000007_0": {
   "language": "en",
   "language_probability": 0.41,
-  "text": "SORRY"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000008_0": {
   "language": "ur",
@@ -57,7 +60,8 @@
  "000011_0": {
   "language": "en",
   "language_probability": 0.27,
-  "text": "I'm so sorry!"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000012_0": {
   "language": "sa",
@@ -67,12 +71,14 @@
  "000013_0": {
   "language": "en",
   "language_probability": 0.69,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000013_1": {
   "language": "en",
   "language_probability": 0.68,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000015_0": {
   "language": "en",
@@ -82,17 +88,20 @@
  "000016_0": {
   "language": "en",
   "language_probability": 0.52,
-  "text": "Empty"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000017_0": {
   "language": "en",
   "language_probability": 0.58,
-  "text": "I"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000018_0": {
   "language": "en",
   "language_probability": 0.57,
-  "text": "NOM NOM NOM"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000023_0": {
   "language": "en",
@@ -102,7 +111,8 @@
  "000024_0": {
   "language": "en",
   "language_probability": 0.52,
-  "text": "Bye!"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000025_0": {
   "language": "en",
@@ -122,7 +132,8 @@
  "000029_0": {
   "language": "en",
   "language_probability": 0.7,
-  "text": "Well, John, John, John!"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000034_0": {
   "language": "en",
@@ -132,7 +143,8 @@
  "000035_0": {
   "language": "ru",
   "language_probability": 0.8,
-  "text": "Смотрите на канал, подписывайтесь на канал, ставьте лайки и подписывайтесь на канал."
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000037_0": {
   "language": "en",
@@ -147,12 +159,14 @@
  "000039_0": {
   "language": "hi",
   "language_probability": 0.68,
-  "text": "तो मेरा अपना वनाया था चदरिया आखे भी नहीं है"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000040_0": {
   "language": "ro",
   "language_probability": 0.14,
-  "text": "Aici, aici, aici."
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000041_0": {
   "language": "en",
@@ -167,12 +181,14 @@
  "000042_0": {
   "language": "en",
   "language_probability": 0.89,
-  "text": "i get overwhelmed so easily my anxiety creeps inside of me makes it hard to breathe what's come over me feels like i'm somebody else i get overwhelmed"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000043_0": {
   "language": "en",
   "language_probability": 0.64,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000045_0": {
   "language": "en",
@@ -192,7 +208,8 @@
  "000051_0": {
   "language": "zh",
   "language_probability": 0.79,
-  "text": "不拳永恒"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000053_0": {
   "language": "en",
@@ -202,27 +219,32 @@
  "000054_0": {
   "language": "en",
   "language_probability": 0.67,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000054_1": {
   "language": "en",
   "language_probability": 0.67,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000055_0": {
   "language": "hi",
   "language_probability": 0.61,
-  "text": "सोणिये हीनी इच्ट पडबता हैं"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000055_1": {
   "language": "hi",
   "language_probability": 0.61,
-  "text": "सोणिये हीनी इच्ट पडबता हैं"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000056_0": {
   "language": "en",
   "language_probability": 0.45,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000060_0": {
   "language": "en",
@@ -242,12 +264,14 @@
  "000063_0": {
   "language": "en",
   "language_probability": 0.31,
-  "text": "You"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000069_0": {
   "language": "en",
   "language_probability": 0.43,
-  "text": "But"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000072_0": {
   "language": "en",
@@ -272,7 +296,8 @@
  "000081_0": {
   "language": "en",
   "language_probability": 0.76,
-  "text": "It reminds me that it's not so bad"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000083_0": {
   "language": "en",
@@ -297,7 +322,8 @@
  "000086_0": {
   "language": "hi",
   "language_probability": 0.49,
-  "text": "मैं तो नहीं हूं इंसानों में बिकता हूं मैं तो इं दुकानों में"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000087_0": {
   "language": "en",
@@ -317,7 +343,8 @@
  "000089_0": {
   "language": "ar",
   "language_probability": 0.24,
-  "text": "جو تن"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000091_0": {
   "language": "en",
@@ -337,27 +364,32 @@
  "000093_0": {
   "language": "en",
   "language_probability": 0.82,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000093_1": {
   "language": "en",
   "language_probability": 0.82,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000094_0": {
   "language": "hi",
   "language_probability": 0.57,
-  "text": "ते मकाँ एक बार घिरकए वैसे बनते कहां है जैसे तूने अपने दिर से बनाए"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000094_1": {
   "language": "hi",
   "language_probability": 0.54,
-  "text": "तेमकां एक बार घिरकए वैसे बनते कहां है जैसे थे तूने अपने दिर से बनाए"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000095_0": {
   "language": "hi",
   "language_probability": 0.69,
-  "text": "बेगाल कदे दहेई होगाई हैं। जicia! बेगाल बेगाल के दहेई होगाए में। इसपाै बैजाई में का यहाँ था? मुझ NASARNI बीजान �j gas Dhehe interrupt мои मैं � Где कब का लोगी नहीं फाआ?"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000096_0": {
   "language": "en",
@@ -367,17 +399,20 @@
  "000097_0": {
   "language": "en",
   "language_probability": 0.94,
-  "text": "it's been a long without you my friend and i'll tell you all about it when i see you again we've come a long way"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000098_0": {
   "language": "en",
   "language_probability": 0.62,
-  "text": "I"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000100_0": {
   "language": "ur",
   "language_probability": 0.29,
-  "text": "بکھرنے کا مجھے تو شوق ہے بڑا سمیتے کا مجھے تو بتا زیادہ"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000101_0": {
   "language": "en",
@@ -417,17 +452,20 @@
  "000116_0": {
   "language": "en",
   "language_probability": 0.42,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000116_1": {
   "language": "en",
   "language_probability": 0.42,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000117_0": {
   "language": "en",
   "language_probability": 0.53,
-  "text": "You"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000118_0": {
   "language": "hi",
@@ -437,12 +475,14 @@
  "000119_0": {
   "language": "hi",
   "language_probability": 0.98,
-  "text": "मैं इस दुन्या के राजा हूं, मैं तो पापा हूं, बना, तो मैं उसे पोट दूँगा, अंकर चौटा का राजा हूं"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000119_1": {
   "language": "hi",
   "language_probability": 0.98,
-  "text": "मैं इस दुन्या के राजा हूं, मैं तो पापा हूं, बना, तो मैं उसे पोट दूँगा, अंकर चौटा का राजा हूं"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000120_0": {
   "language": "hi",
@@ -452,12 +492,14 @@
  "000121_0": {
   "language": "ur",
   "language_probability": 0.56,
-  "text": "مجھ کو با جیا تیرے با گیر تُو مان میری جان میں تجھ جانے نہ دی"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000121_1": {
   "language": "ur",
   "language_probability": 0.56,
-  "text": "مجھ کو با جیا تیرے با گیر تُو مان میری جان میں تجھ جانے نہ دی"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000122_0": {
   "language": "en",
@@ -482,7 +524,8 @@
  "000127_0": {
   "language": "en",
   "language_probability": 0.24,
-  "text": "We're not."
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000128_0": {
   "language": "en",
@@ -492,7 +535,8 @@
  "000132_0": {
   "language": "en",
   "language_probability": 0.51,
-  "text": "I will"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000134_0": {
   "language": "hi",
@@ -505,7 +549,8 @@
  "000141_0": {
   "language": "en",
   "language_probability": 0.88,
-  "text": "Oh, I love it and I hate it at the same time Oh, I love it and I hate it at the same time You and I, we're poisoned from the same mind"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000142_0": {
   "language": "en",
@@ -540,32 +585,38 @@
  "000147_0": {
   "language": "en",
   "language_probability": 0.3,
-  "text": "SHIT IS RUNNING SHIT IS RUNNING"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000147_1": {
   "language": "en",
   "language_probability": 0.3,
-  "text": "SHIT IS RUNNING SHIT IS RUNNING"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000149_0": {
   "language": "hi",
   "language_probability": 0.83,
-  "text": "बेटराद करते हमी यूँ न जाई। आप तो हमारे पसम लोट आई।"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000149_1": {
   "language": "hi",
   "language_probability": 0.85,
-  "text": "बेटराद करते हमें यूँ न जाई। आप तो हमारे पसम लोट आई।"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000150_0": {
   "language": "hi",
   "language_probability": 0.59,
-  "text": "तारे गिंगिं दिंको रात रात को दिं कर रहा हूं तु पुछ नहीं हालिप की राद हूं"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000151_0": {
   "language": "hi",
   "language_probability": 0.49,
-  "text": "मैंने ये भी सुचा है अकसर, तू भी मैं भी सभी है शीषे पुदी को हम सभी में देखे, नहीं हु मा हु"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000152_0": {
   "language": "ko",
@@ -575,7 +626,8 @@
  "000153_0": {
   "language": "en",
   "language_probability": 0.42,
-  "text": "It's so"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000155_0": {
   "language": "en",
@@ -595,7 +647,8 @@
  "000157_0": {
   "language": "en",
   "language_probability": 0.64,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000158_0": {
   "language": "en",
@@ -646,12 +699,14 @@
  "000174_0": {
   "language": "hi",
   "language_probability": 0.5,
-  "text": "रिष्ता दिल से दिल के एथुबार का जिन्दा है हमी से नाम भ्यार का"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000174_1": {
   "language": "hi",
   "language_probability": 0.5,
-  "text": "रिष्ता दिल से दिल के एथुबार का जिन्दा है हमी से नाम भ्यार का"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000175_0": {
   "language": "en",
@@ -671,7 +726,8 @@
  "000177_0": {
   "language": "pa",
   "language_probability": 0.67,
-  "text": "कौड़ा लाक दा सबा उच्छी जरा जाके नाम चले थां तां जाते थां पैली मली वेठा थां"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000178_0": {
   "language": "hi",
@@ -681,22 +737,26 @@
  "000179_0": {
   "language": "pa",
   "language_probability": 0.56,
-  "text": "लाक दास्वा, उच्छी जरा जाके नाम चले थां, थां जाट थां, पैली मल्ली वेट हो थां, अगे कड़े आप लेगा"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000180_0": {
   "language": "ur",
   "language_probability": 0.35,
-  "text": "تم ہار کے دل اپنا میری جیت عمر کر دو ہوتوں سے چھولو تم میرا گیت عمر کر دو"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000181_0": {
   "language": "en",
   "language_probability": 0.41,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000181_1": {
   "language": "en",
   "language_probability": 0.41,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000185_0": {
   "language": "en",
@@ -716,7 +776,8 @@
  "000192_0": {
   "language": "en",
   "language_probability": 0.53,
-  "text": "I"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000193_0": {
   "language": "hi",
@@ -766,12 +827,14 @@
  "000202_0": {
   "language": "en",
   "language_probability": 0.74,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000202_1": {
   "language": "en",
   "language_probability": 0.74,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000204_0": {
   "language": "hi",
@@ -796,12 +859,14 @@
  "000215_0": {
   "language": "fr",
   "language_probability": 0.77,
-  "text": "Dans mon esprit tout divaque, je me perds dans tes yeux Je me noie dans la vague de ton regard amoureux Je ne veux que ton âme, divagant sur ma peau Une fleur, une femme dans ton cœur homéo"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000216_0": {
   "language": "en",
   "language_probability": 0.81,
-  "text": "That's gonna get you killed But pride's gonna be the goal"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000217_0": {
   "language": "pa",
@@ -811,12 +876,14 @@
  "000218_0": {
   "language": "hi",
   "language_probability": 0.75,
-  "text": "हाँ दिन लिच्छ तेरे लिए टैम कागिके कर दा मैं प्रोमेस मिलने आउंगा मैंनू पता है तू फैन सब्माँ"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000218_1": {
   "language": "hi",
   "language_probability": 0.69,
-  "text": "तिन लिच्यों तेरे लेई टैम कागिके करदा मैं प्रोमेस मिलने आउंगा मैंनु पता है तु फैन संदु"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000220_0": {
   "language": "ur",
@@ -851,7 +918,8 @@
  "000228_0": {
   "language": "ja",
   "language_probability": 0.19,
-  "text": "フィリー・キョー・ミ・ナ"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000229_0": {
   "language": "en",
@@ -871,17 +939,20 @@
  "000234_0": {
   "language": "es",
   "language_probability": 0.56,
-  "text": "Llorá que telmerá"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000234_1": {
   "language": "es",
   "language_probability": 0.56,
-  "text": "Llorá que telmerá"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000241_0": {
   "language": "en",
   "language_probability": 0.65,
-  "text": "HMM"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000242_0": {
   "language": "en",
@@ -901,17 +972,20 @@
  "000245_0": {
   "language": "en",
   "language_probability": 0.71,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000245_1": {
   "language": "en",
   "language_probability": 0.68,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000247_0": {
   "language": "hi",
   "language_probability": 0.72,
-  "text": "माई के दियाता गाली बात बात में पूरा देस के नेतालों बरबाद करता लेके अलग-अलग भरम के जंडहात में विडिया भी अब तो भिकाव हो गईल जूथ के सच-सच के जूथ लिख हता कोठावाली से भी सस्ता में"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000248_0": {
   "language": "hi",
@@ -956,7 +1030,8 @@
  "000258_0": {
   "language": "en",
   "language_probability": 0.6,
-  "text": "Do do do do do do do do do do"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000259_0": {
   "language": "ur",
@@ -966,12 +1041,14 @@
  "000260_0": {
   "language": "hi",
   "language_probability": 0.51,
-  "text": "बाजन त्यर तुटमा धुमक-धुमक जब हिट चे तू पाहाडी बाटोमा चम-चमा पायल गुंगरू बाजन त्यर तुटमा ताल त्यर कंगना चुनरी तेर चमकनी गुलाभी शराज"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000260_1": {
   "language": "hi",
   "language_probability": 0.51,
-  "text": "बजण ध्यर थुटमा धुमक धुमक जब हिट चे तू पाहरी बाटों मा चमचमा पायल गुंगरू बजण ध्यर थुटमा डाल ध्यर कंगना चुणरे तेड़ चमकनी गुला भीशरा चमकनी गुला भीशरा"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000261_0": {
   "language": "hi",
@@ -986,12 +1063,14 @@
  "000262_0": {
   "language": "hi",
   "language_probability": 0.46,
-  "text": "हैसे बोले बंकर है बैठे जैसे कोई बाद सब कुछ नजर आ रहा है ये नाद"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000262_1": {
   "language": "ur",
   "language_probability": 0.45,
-  "text": "ایشے بولے بنکر ہے بیٹھے چیسے کوئی بات سب کچھ نظر آ رہا ہے یہ را"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000263_0": {
   "language": "en",
@@ -1016,7 +1095,8 @@
  "000268_0": {
   "language": "pt",
   "language_probability": 0.41,
-  "text": "Tão dono aqui, magre-se-o."
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000269_0": {
   "language": "en",
@@ -1026,22 +1106,26 @@
  "000270_0": {
   "language": "nn",
   "language_probability": 0.29,
-  "text": "Музыка"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000270_1": {
   "language": "en",
   "language_probability": 0.27,
-  "text": "I don't know what you're talking about, I don't know what you're talking about I don't know what you're talking about"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000271_0": {
   "language": "en",
   "language_probability": 0.82,
-  "text": "Get the speaker box round, get in that stuff, get in that sound"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000271_1": {
   "language": "en",
   "language_probability": 0.82,
-  "text": "Get the speaker box round, get in that stuff, get in that sound"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000272_0": {
   "language": "en",
@@ -1091,7 +1175,8 @@
  "000280_0": {
   "language": "en",
   "language_probability": 0.59,
-  "text": "Inky pinky ponky, daddy bought a donkey, donkey died"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000281_0": {
   "language": "en",
@@ -1206,7 +1291,8 @@
  "000305_0": {
   "language": "hi",
   "language_probability": 0.51,
-  "text": "मैं तेरा रस्पा देखूँगा"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000306_0": {
   "error": "tuple index out of range"
@@ -1239,7 +1325,8 @@
  "000311_0": {
   "language": "en",
   "language_probability": 0.63,
-  "text": "You"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000312_0": {
   "language": "en",
@@ -1254,12 +1341,14 @@
  "000313_0": {
   "language": "en",
   "language_probability": 0.43,
-  "text": "Good"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000313_1": {
   "language": "en",
   "language_probability": 0.43,
-  "text": "Good"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000314_0": {
   "language": "hi",
@@ -1274,22 +1363,26 @@
  "000316_0": {
   "language": "hi",
   "language_probability": 0.79,
-  "text": "भाई किशी, भाई नहिंकमेंट खर्या एम्मेंrare भीबी के बारि� Autobai artists.com"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000316_1": {
   "language": "hi",
   "language_probability": 0.79,
-  "text": "मुमें पराश़मण लमता हुगा काथिए पाईशुल्णा닝।"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000317_0": {
   "language": "en",
   "language_probability": 0.54,
-  "text": "you"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000317_1": {
   "language": "en",
   "language_probability": 0.54,
-  "text": "you"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000318_0": {
   "language": "zh",
@@ -1299,7 +1392,8 @@
  "000321_0": {
   "language": "hi",
   "language_probability": 0.26,
-  "text": "यही वही कि तिर फर बेखुता।"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000322_0": {
   "language": "hi",
@@ -1319,12 +1413,14 @@
  "000324_0": {
   "language": "en",
   "language_probability": 0.52,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000324_1": {
   "language": "en",
   "language_probability": 0.52,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000327_0": {
   "language": "ja",
@@ -1344,17 +1440,20 @@
  "000336_0": {
   "language": "en",
   "language_probability": 0.31,
-  "text": "Love them"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000336_1": {
   "language": "en",
   "language_probability": 0.35,
-  "text": "Love them"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000337_0": {
   "language": "en",
   "language_probability": 0.42,
-  "text": "Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki Buki B"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000338_0": {
   "language": "en",
@@ -1404,12 +1503,14 @@
  "000344_0": {
   "language": "en",
   "language_probability": 0.51,
-  "text": "You"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000344_1": {
   "language": "en",
   "language_probability": 0.51,
-  "text": "You"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000345_0": {
   "language": "en",
@@ -1434,12 +1535,14 @@
  "000347_0": {
   "language": "hi",
   "language_probability": 0.35,
-  "text": "In your letter call देखो देखो जैसे मेरे रादे वैसे कहां किरे आथे"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000348_0": {
   "language": "en",
   "language_probability": 0.84,
-  "text": "Don't don't in the city of"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000349_0": {
   "language": "hi",
@@ -1459,12 +1562,14 @@
  "000353_0": {
   "language": "hi",
   "language_probability": 0.28,
-  "text": "यारगी गेटा"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000353_1": {
   "language": "hi",
   "language_probability": 0.28,
-  "text": "यारेगी गेड़े"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000354_0": {
   "language": "hi",
@@ -1499,12 +1604,14 @@
  "000360_0": {
   "language": "en",
   "language_probability": 0.88,
-  "text": "Your head on my shoulder"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000360_1": {
   "language": "en",
   "language_probability": 0.88,
-  "text": "Your head on my shoulder"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000361_0": {
   "language": "hi",
@@ -1549,7 +1656,8 @@
  "000365_0": {
   "language": "hi",
   "language_probability": 0.39,
-  "text": "मैं गिर्या होया पंथा जमा नीच बल्ली ए ओरा के सिरा पे नहीं रिजागा"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000366_0": {
   "language": "hi",
@@ -1594,7 +1702,8 @@
  "000370_0": {
   "language": "hi",
   "language_probability": 0.43,
-  "text": "अबके बरस है ये सावन जान न मेरी ले जाए बोले जो कोयल बावो में बोले जो कोयल"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000371_0": {
   "language": "hi",
@@ -1629,32 +1738,38 @@
  "000377_0": {
   "language": "en",
   "language_probability": 0.63,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000377_1": {
   "language": "en",
   "language_probability": 0.63,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000378_0": {
   "language": "en",
   "language_probability": 0.7,
-  "text": "I just want to"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000379_0": {
   "language": "hi",
   "language_probability": 0.68,
-  "text": "चं से जब तूठे कोई सप्ना जग सुना सुना लाग कोई रहे न जब अपने के लिए"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000380_0": {
   "language": "en",
   "language_probability": 0.32,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000381_0": {
   "language": "en",
   "language_probability": 0.74,
-  "text": "Cuz I'm not walking"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000382_0": {
   "language": "en",
@@ -1719,22 +1834,26 @@
  "000389_0": {
   "language": "hi",
   "language_probability": 0.22,
-  "text": "होखूम गागे रे"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000389_1": {
   "language": "hi",
   "language_probability": 0.22,
-  "text": "होखूम गागे रे"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000390_0": {
   "language": "en",
   "language_probability": 0.86,
-  "text": "The kind of G the little homies wanna be like On my knees in the night, saying prayers in the streetlight In Spain"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000390_1": {
   "language": "en",
   "language_probability": 0.86,
-  "text": "The kind of G the little homies wanna be like On my knees in the night, saying prayers in the streetlight In Spain"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000391_0": {
   "language": "hi",
@@ -1749,12 +1868,14 @@
  "000394_0": {
   "language": "ta",
   "language_probability": 0.89,
-  "text": "கலித் துள்ளிய காலிதன் காலில் தங்கப் பொன் திலம்"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000394_1": {
   "language": "ta",
   "language_probability": 0.89,
-  "text": "கலித் துள்ளிய காலிதன் காலில் தங்கப் பொன் திலம்"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000396_0": {
   "language": "en",
@@ -1799,27 +1920,32 @@
  "000401_0": {
   "language": "hi",
   "language_probability": 0.69,
-  "text": "मैं तिट्लियों के पीछे भागू मैं जुगनू के पीछे जाउ ये रंग है वो रोशनी है जितनी खुशबू एं बाग में मिलें वहापे कि तुम हो जहाँ जहाँ पे एक पल विटरू मैं गुन सिता बना मैं पूरी हैं"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000401_1": {
   "language": "hi",
   "language_probability": 0.69,
-  "text": "मैं तिट्लियों के पीछे भागू मैं जुगनू के पीछे जाउ ये रंग है वो रोशनी है जितनी खुशबू एं बाग में मिलें वहापे कि तुम हो जहाँ जहाँ पे एक पल विटरू मैं गुन सिता बना मैं पूरी हैं"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000402_0": {
   "language": "hi",
   "language_probability": 0.25,
-  "text": "देखाँ देखाँ इं आगे देखे तूंग आगे देखे तूंग"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000403_0": {
   "language": "en",
   "language_probability": 0.45,
-  "text": "Oh"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000403_1": {
   "language": "en",
   "language_probability": 0.45,
-  "text": "Oh"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000405_0": {
   "language": "en",
@@ -1854,52 +1980,62 @@
  "000410_0": {
   "language": "en",
   "language_probability": 0.47,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000410_1": {
   "language": "en",
   "language_probability": 0.47,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000413_0": {
   "language": "en",
   "language_probability": 0.46,
-  "text": "I"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000413_1": {
   "language": "en",
   "language_probability": 0.47,
-  "text": "I"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000414_0": {
   "language": "en",
   "language_probability": 0.67,
-  "text": "Right now"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000414_1": {
   "language": "en",
   "language_probability": 0.67,
-  "text": "Right now"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000415_0": {
   "language": "en",
   "language_probability": 0.43,
-  "text": "Oh"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000415_1": {
   "language": "en",
   "language_probability": 0.43,
-  "text": "Oh"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000417_0": {
   "language": "en",
   "language_probability": 0.48,
-  "text": "You"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000418_0": {
   "language": "en",
   "language_probability": 0.48,
-  "text": "You"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000419_0": {
   "language": "en",
@@ -1944,12 +2080,14 @@
  "000425_0": {
   "language": "en",
   "language_probability": 0.64,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000425_1": {
   "language": "en",
   "language_probability": 0.63,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000426_0": {
   "language": "hi",
@@ -1959,7 +2097,8 @@
  "000427_0": {
   "language": "ja",
   "language_probability": 0.75,
-  "text": "これ、 やきやとね"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000430_0": {
   "language": "ko",
@@ -1994,12 +2133,14 @@
  "000433_0": {
   "language": "en",
   "language_probability": 0.29,
-  "text": "Do-ra-ta-di-di-ra-ta Do-ra-ta-di-di-ra-ta"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000433_1": {
   "language": "en",
   "language_probability": 0.29,
-  "text": "Do-ra-ta-di-di-ra-ta Do-ra-ta-di-di-ra-ta"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000434_0": {
   "language": "ne",
@@ -2014,12 +2155,14 @@
  "000435_0": {
   "language": "ru",
   "language_probability": 0.76,
-  "text": "Ходит сказка, значит век упал"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000435_1": {
   "language": "ru",
   "language_probability": 0.76,
-  "text": "Ходит сказка, значит век упал"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000436_0": {
   "language": "nl",
@@ -2129,22 +2272,26 @@
  "000447_0": {
   "language": "en",
   "language_probability": 0.76,
-  "text": "and when we standing on business i'm a big step up underground methods top-notch rules get the most nothing that's all"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000447_1": {
   "language": "en",
   "language_probability": 0.76,
-  "text": "and when we standing on business i'm a big step up underground methods top-notch rules get the most nothing that's all"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000448_0": {
   "language": "en",
   "language_probability": 0.54,
-  "text": "I'm"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000448_1": {
   "language": "en",
   "language_probability": 0.55,
-  "text": "I'm"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000449_0": {
   "language": "hi",
@@ -2154,12 +2301,14 @@
  "000450_0": {
   "language": "hi",
   "language_probability": 0.6,
-  "text": "भिर्या, मेरे राठि के वंदशसuchar को निकाना भिर्या, मेरे... ना"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000450_1": {
   "language": "hi",
   "language_probability": 0.6,
-  "text": "भुश्प्राइप्माइप्राइप्राइप्राइप्राइप्राइप्राइप्राइप्राइप्राइप्राइप्राइप्राइप्राइप्राइप्राइप्राइप्राइप्राइप्राइप्राइप्राइप्राइप्राइप्राइप्राइप्राइप्राइप्राइप्रा�"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000451_0": {
   "language": "hi",
@@ -2184,12 +2333,14 @@
  "000454_0": {
   "language": "en",
   "language_probability": 0.89,
-  "text": "Life flies in this bitch"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000454_1": {
   "language": "en",
   "language_probability": 0.9,
-  "text": "Life flies in this bitch"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000456_0": {
   "language": "en",
@@ -2269,12 +2420,14 @@
  "000472_0": {
   "language": "zh",
   "language_probability": 0.24,
-  "text": "好"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000472_1": {
   "language": "zh",
   "language_probability": 0.24,
-  "text": "好"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000473_0": {
   "language": "hi",
@@ -2289,7 +2442,8 @@
  "000475_0": {
   "language": "hi",
   "language_probability": 0.17,
-  "text": "जुस पिलादो मुसंभी का जुस पिलादो मूड़ उफेमिरा संभु भाई जुस पिलादो पिलादो ना"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000477_0": {
   "language": "hi",
@@ -2314,12 +2468,14 @@
  "000486_0": {
   "language": "en",
   "language_probability": 0.53,
-  "text": "Oh"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000486_1": {
   "language": "en",
   "language_probability": 0.53,
-  "text": "Oh"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000499_0": {
   "language": "en",
@@ -2354,7 +2510,8 @@
  "000502_0": {
   "language": "hi",
   "language_probability": 0.81,
-  "text": "अप विच्छी कोडा रखता है।"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000504_0": {
   "language": "hi",
@@ -2374,7 +2531,8 @@
  "000509_0": {
   "language": "en",
   "language_probability": 0.51,
-  "text": "Oh"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000511_0": {
   "language": "en",
@@ -2399,22 +2557,26 @@
  "000515_0": {
   "language": "en",
   "language_probability": 0.79,
-  "text": "He he he he he!"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000517_0": {
   "language": "hi",
   "language_probability": 0.86,
-  "text": "अगाले खपड़े काली कार रात के है साडे चार पीछे पड़े थानेदार सफेथ कौलर काले काम हसीदा बैग मैं हम ना जाने दाम तू मेरा एक लेगा ले लेंगे खानदान तू करता सकर सकर हम करते बाम बाम मैं मेरी नानी always been a fucking don"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000517_1": {
   "language": "hi",
   "language_probability": 0.86,
-  "text": "अगाले खपड़े काली कार रात के है साडे चार पीछे पड़े थानेदार सफेथ कौलर काले काम हसीदा बैग मैं हम ना जाने दाम तू मेरा एक लेगा ले लेंगे खानदान तू करता सकर सकर हम करते बाम बाम मैं मेरी नानी always been a fucking don"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000518_0": {
   "language": "hi",
   "language_probability": 0.89,
-  "text": "आपकाले खपड़े काली कार रात के ऐसाडे चार पीछे पड़े थानेदार सफेथ कौलर काले काम हसीदा बैग में हम ना जाने दाम तू मेरा एक लेगा लेलेंगे खानदान तू करता सकर सकर"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000519_0": {
   "language": "en",
@@ -2474,12 +2636,14 @@
  "000527_0": {
   "language": "en",
   "language_probability": 0.42,
-  "text": "I can't breathe"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000527_1": {
   "language": "en",
   "language_probability": 0.42,
-  "text": "I can't breathe"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000528_0": {
   "language": "en",
@@ -2504,12 +2668,14 @@
  "000530_0": {
   "language": "en",
   "language_probability": 0.57,
-  "text": "Oh"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000530_1": {
   "language": "en",
   "language_probability": 0.59,
-  "text": "Oh"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000531_0": {
   "language": "hi",
@@ -2569,27 +2735,32 @@
  "000551_0": {
   "language": "en",
   "language_probability": 0.73,
-  "text": "In a day"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000551_1": {
   "language": "en",
   "language_probability": 0.73,
-  "text": "In a day"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000552_0": {
   "language": "en",
   "language_probability": 0.77,
-  "text": "Like I don't care, baby, by the way Because I'm happy Clap along if you feel"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000552_1": {
   "language": "en",
   "language_probability": 0.75,
-  "text": "Like I don't care, baby, by the way Because I'm happy Clap along if you feel"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000555_0": {
   "language": "ta",
   "language_probability": 0.89,
-  "text": "ஏய் அழுத்தீர் ஏன் வயதுல நீ படுத்துகிறாயே ஏய் மெதுவாயே கழுத்துல நீ மடுத்துகிறாயே இது அது தானா?"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000556_0": {
   "language": "en",
@@ -2619,22 +2790,26 @@
  "000560_0": {
   "language": "pa",
   "language_probability": 0.95,
-  "text": "तैनु बड़ा सताया"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000560_1": {
   "language": "pa",
   "language_probability": 0.95,
-  "text": "तैनु बड़ा सताया"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000561_0": {
   "language": "en",
   "language_probability": 0.64,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000561_1": {
   "language": "en",
   "language_probability": 0.64,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000563_0": {
   "language": "en",
@@ -2659,7 +2834,8 @@
  "000565_0": {
   "language": "hi",
   "language_probability": 0.27,
-  "text": "मालाई वही निक्टे की सुर्वाइज़ू"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000565_1": {
   "language": "hi",
@@ -2669,12 +2845,14 @@
  "000568_0": {
   "language": "nn",
   "language_probability": 0.18,
-  "text": "irement మాయా మాయా ఇకిల్లే టానా నా పిత్లే సిత్లో మానాతరిక ఆంకఖాని మాయ ఫారికాన్న తరాన సాని కారికూ పోకిరలి నానరి ప్టాని మాయకు గమార"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000568_1": {
   "language": "nn",
   "language_probability": 0.18,
-  "text": "ఆిమాల రానిక లో గారణిత్త పిమాల సంగెటా ఆలోడ్తీ ఆదాకల్ పీరిక్తు నామిక్తతతటతక్ లాలానిక ఇమానిక్ సంగెడి ఇయంవ ఆర్ పరంచాదారి పర"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000569_0": {
   "language": "en",
@@ -2704,27 +2882,32 @@
  "000575_0": {
   "language": "hi",
   "language_probability": 0.92,
-  "text": "चान्दी की डाल पर सोने का मोर"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000576_0": {
   "language": "hi",
   "language_probability": 0.57,
-  "text": "नैनों के गाँ।"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000576_1": {
   "language": "hi",
   "language_probability": 0.57,
-  "text": "नैनों के गाँ।"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000577_0": {
   "language": "hi",
   "language_probability": 0.79,
-  "text": "बलम पिछ गारी जो तुने मुझे मारे"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000577_1": {
   "language": "hi",
   "language_probability": 0.79,
-  "text": "बलम पिछ गारी जो तुने मुझे मारे"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000578_0": {
   "language": "en",
@@ -2739,12 +2922,14 @@
  "000583_0": {
   "language": "hi",
   "language_probability": 0.74,
-  "text": "वर्तमान आखों का दोखा है भूध सेखने लिए का मौखा है बगृष्यों मीदों की नहॉगा है आज मेरा संजीछ आगा है नहग पे चांधी का खोका है दिमाग में खेमाल है कुछ नखुछ बोलते रहेना है माया नगरी है। हवा से खवा का जोका है। क्रिम्नल तो हर एक को ही होता है। समाग सट।"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000583_1": {
   "language": "hi",
   "language_probability": 0.74,
-  "text": "वर्तमान आखों का धोका है। भूथ सेखने का मौखा है। बगरिश्चु मीदो की नौगा है। आज मेरा संजीट से रोखा है। नाग को चांधी का कोका है। दिमाग में केवाल कुछ न कुछ बोलते रहना है। दर्ती एक माया नगरी है। हवा से खवा का जोका है। क्रि"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000584_0": {
   "language": "hi",
@@ -2769,7 +2954,8 @@
  "000590_0": {
   "language": "bn",
   "language_probability": 0.88,
-  "text": "ববব ববব ববব"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000590_1": {
   "language": "bn",
@@ -2779,7 +2965,8 @@
  "000591_0": {
   "language": "hi",
   "language_probability": 0.73,
-  "text": "तो अन्जाने अज्णभी चले बांदने बंधन।"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000594_2": {
   "language": "hi",
@@ -2799,12 +2986,14 @@
  "000598_0": {
   "language": "en",
   "language_probability": 0.53,
-  "text": "You"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000598_1": {
   "language": "en",
   "language_probability": 0.53,
-  "text": "You"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000599_0": {
   "language": "en",
@@ -2824,7 +3013,8 @@
  "000602_0": {
   "language": "en",
   "language_probability": 0.51,
-  "text": "You"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000602_1": {
   "language": "en",
@@ -2834,12 +3024,14 @@
  "000603_0": {
   "language": "en",
   "language_probability": 0.6,
-  "text": "You"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000603_1": {
   "language": "en",
   "language_probability": 0.6,
-  "text": "You"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000606_0": {
   "language": "hi",
@@ -2864,12 +3056,14 @@
  "000610_0": {
   "language": "mr",
   "language_probability": 0.34,
-  "text": "TOOI RAJA FOOTOO MADHA KIZ"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000610_1": {
   "language": "mr",
   "language_probability": 0.34,
-  "text": "образइंकाताथी लáलगस्ग़िーーनपागला धिन सारी, पिछी होगा। अपना हलिजिनि漂亮गा प्ा़ाजा हाँ"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000612_0": {
   "language": "hi",
@@ -2884,32 +3078,38 @@
  "000613_0": {
   "language": "en",
   "language_probability": 0.39,
-  "text": "Oh"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000613_1": {
   "language": "en",
   "language_probability": 0.39,
-  "text": "Oh"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000615_0": {
   "language": "en",
   "language_probability": 0.28,
-  "text": "Wobbly"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000615_1": {
   "language": "en",
   "language_probability": 0.28,
-  "text": "Wobbly"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000616_0": {
   "language": "en",
   "language_probability": 0.58,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000616_1": {
   "language": "en",
   "language_probability": 0.57,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000618_0": {
   "language": "hi",
@@ -2919,12 +3119,14 @@
  "000619_0": {
   "language": "hi",
   "language_probability": 0.38,
-  "text": "लूप्ट के नहीं लिए या तेरा थुट्टियाला तिल् कला तेरा यार मेरी रहनी कोई नहां तू है मेरा राजा ने तू है मंदी धडडडड मेरी तू है दिष्गानी तू हो मेरी तेडी"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000619_1": {
   "language": "hi",
   "language_probability": 0.38,
-  "text": "लूप्ट के नहीं लिए या तेरा थुट्टियाला तिल् कला तेरा यार मेरी रहनी कोई नहां तू है मेरा राजा ने तू है मंदी धडडडड मेरी तू है दिष्गानी तू हो मेरी तेडी"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000626_0": {
   "language": "en",
@@ -2934,7 +3136,8 @@
  "000627_0": {
   "language": "hi",
   "language_probability": 0.39,
-  "text": "तुदों की मलाई, वही निट्टी की सुर्वाइं"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000628_0": {
   "language": "en",
@@ -2994,27 +3197,32 @@
  "000637_1": {
   "language": "hi",
   "language_probability": 0.91,
-  "text": "मुन्ना какое je suis ? मैं एव 말�"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000639_0": {
   "language": "hi",
   "language_probability": 0.69,
-  "text": "बहुँ के अंधेरे तले बूझ के सितारे जले देखा तुजे तो दिलों में चान आई फोटों के तराने जगे अर्मा दिवाने जगे बाहों में आके तू ऐसे शर्माई चा गई फिर वही बेखुती"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000640_0": {
   "language": "hi",
   "language_probability": 0.69,
-  "text": "बहुँ के अंधेरे तले बूझ के सितारे जले देखा तुजे तो दिलों में चान आई फोटों के तराने जगे अर्मा दिवाने जगे बाहों में आके तू ऐसे शर्माई चा गई फिर वही बेखुती"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000641_0": {
   "language": "ur",
   "language_probability": 0.46,
-  "text": "کس کا رستہ دیکھے اے دل اے سودائی"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000641_1": {
   "language": "ur",
   "language_probability": 0.46,
-  "text": "کس کا رستہ دیکھے اے دل اے سودائی"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000646_0": {
   "language": "hi",
@@ -3039,62 +3247,74 @@
  "000648_0": {
   "language": "id",
   "language_probability": 0.27,
-  "text": "Raju berdua yang"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000648_1": {
   "language": "id",
   "language_probability": 0.27,
-  "text": "Raju berdua yang"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000653_0": {
   "language": "ta",
   "language_probability": 0.66,
-  "text": "அர்த்த touched ms.. movies dogs h日 k bow u t u Prem அன்சி அமைதி பல его பார் மரி உல்வூடா நி கூட செய்யல் health estiver"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000653_1": {
   "language": "ta",
   "language_probability": 0.66,
-  "text": "அந்த துரமில்லை, சோகமில்லை, பரமில்லை, சோகமில்லை, பரமில்லை, சோகமில்லை, பரமில்லை, பரமில்லை, பரமில்லை, பரமில்லை, பரமில்லை, பரமில்லை, பரமில்லை, பரமில்லை, பரமில்லை, பரமில்லை, பரமில்லை, பரமில்லை, பரமில்லை, பரமில்லை,"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000654_0": {
   "language": "en",
   "language_probability": 0.63,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000654_1": {
   "language": "en",
   "language_probability": 0.63,
-  "text": "Thanks for watching!"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000658_0": {
   "language": "en",
   "language_probability": 0.5,
-  "text": "Thank you for watching!"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000658_1": {
   "language": "en",
   "language_probability": 0.5,
-  "text": "I don't want to listen to you Why? I want to know you every day I don't want to listen to you"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000661_0": {
   "language": "en",
   "language_probability": 0.26,
-  "text": "That's pretty much"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000661_1": {
   "language": "en",
   "language_probability": 0.26,
-  "text": "That's pretty much"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000665_0": {
   "language": "en",
   "language_probability": 0.83,
-  "text": "."
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000665_1": {
   "language": "en",
   "language_probability": 0.83,
-  "text": "."
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000667_0": {
   "language": "hi",
@@ -3129,12 +3349,14 @@
  "000673_0": {
   "language": "hi",
   "language_probability": 0.74,
-  "text": "कैसे भूलो यादे हसीं, जो तिर तुजे आओ, कैसे भी तिरा रा जहां"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000673_1": {
   "language": "hi",
   "language_probability": 0.74,
-  "text": "कैसे भूलो यादे हसीं, जो तिर तुजे आओ, कैसे भी तिरा रा जहां"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000679_0": {
   "language": "en",
@@ -3149,12 +3371,14 @@
  "000681_0": {
   "language": "hi",
   "language_probability": 0.91,
-  "text": "वो उसका लास लास पहले दिखता नहीं तखा सब हाई पे पैसा भौट पौट गान पाट में और मेरा पैसा शान्दार लगे किस्माचा"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000681_1": {
   "language": "hi",
   "language_probability": 0.91,
-  "text": "वो उसका लास लास पहले दिखता नहीं तखा सब हाई पे पैसा भौट पौट गान पाट में और मेरा पैसा शान्दार लगे किस्माचा"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000682_0": {
   "language": "ur",
@@ -3164,12 +3388,14 @@
  "000688_0": {
   "language": "en",
   "language_probability": 0.84,
-  "text": "Ever since I was a kid, I've been a G."
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000688_1": {
   "language": "en",
   "language_probability": 0.84,
-  "text": "Ever since I was a kid, I've been a G."
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000689_0": {
   "language": "en",
@@ -3194,47 +3420,56 @@
  "000696_0": {
   "language": "en",
   "language_probability": 0.78,
-  "text": "in the day of our"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000696_1": {
   "language": "en",
   "language_probability": 0.78,
-  "text": "in the day of our"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000698_0": {
   "language": "en",
   "language_probability": 0.56,
-  "text": "Now, let me hear you"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000698_1": {
   "language": "en",
   "language_probability": 0.56,
-  "text": "Now, let me hear you"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000699_0": {
   "language": "en",
   "language_probability": 0.79,
-  "text": "But I don't fucking care, I don't fucking care, I don't fucking care"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000699_1": {
   "language": "en",
   "language_probability": 0.79,
-  "text": "But I don't fucking care, I don't fucking care, I don't fucking care"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000700_0": {
   "language": "ur",
   "language_probability": 0.52,
-  "text": "کس کا رستہ دیکھے ہے دل ایسا"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000700_1": {
   "language": "ur",
   "language_probability": 0.52,
-  "text": "کس کا رستہ دیکھے کہ دل ایسا ہے"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000703_0": {
   "language": "en",
   "language_probability": 0.67,
-  "text": "I got my boys with me"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000706_0": {
   "language": "ar",
@@ -3249,22 +3484,26 @@
  "000707_0": {
   "language": "hi",
   "language_probability": 0.29,
-  "text": "उस्कराला इस्कराला अफले परले enable my subsriber अपना परले अदसा पाँदारा या काई मैं अषराए परले या काई मैं अनाथा च़ूम में करण उपती अपने लिए पहाते लेगा।"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000707_1": {
   "language": "hi",
   "language_probability": 0.29,
-  "text": "गाये मन मस्त्मगन। बस तेरा नाम वहरा."
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000708_0": {
   "language": "hi",
   "language_probability": 0.35,
-  "text": "जाये मेरे देसी लुख पै वो तन मार देगा मेरा एर्थी ती उड़ बावली मत जाये मेरे देसी लुख पै"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000708_1": {
   "language": "hi",
   "language_probability": 0.36,
-  "text": "अपना जाये मेरे देसी लुख पै ओ तन मार देगा मेरा एर्थी ती उड़ बावली मत जाये मेरे देसी लुख पै"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000712_0": {
   "language": "hi",
@@ -3339,12 +3578,14 @@
  "000726_0": {
   "language": "ja",
   "language_probability": 0.38,
-  "text": "サブタイトル チャンネル登録してね!"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000726_1": {
   "language": "ja",
   "language_probability": 0.35,
-  "text": "サブタイトル・ギャラリー・ギャラリー"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000729_0": {
   "language": "hi",
@@ -3359,47 +3600,56 @@
  "000730_0": {
   "language": "en",
   "language_probability": 0.54,
-  "text": "Oh"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000730_1": {
   "language": "en",
   "language_probability": 0.54,
-  "text": "Oh"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000731_0": {
   "language": "en",
   "language_probability": 0.3,
-  "text": "You were the one who died for you, why don't you listen to me? Now I know you, I know you You were the one who died for you"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000731_1": {
   "language": "en",
   "language_probability": 0.3,
-  "text": "You were the one who died for you, why don't you listen to me? Now I know you, I know you You were the one who died for you"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000732_0": {
   "language": "hi",
   "language_probability": 0.81,
-  "text": "सुल सुल फलकों पे चलके मेरे सत्नों के खेड़ कुपे याद"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000732_1": {
   "language": "hi",
   "language_probability": 0.81,
-  "text": "सुय सुय फल्कों पे चलके मेरे सत्नों के खेड़कुते याद"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000733_0": {
   "language": "en",
   "language_probability": 0.33,
-  "text": "Peace."
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000736_0": {
   "language": "ur",
   "language_probability": 0.46,
-  "text": "تیرے سنگ پر دو فرق کو ہسنا جو چاہے تو رولا کے گیا عشق تیرا رولا کے گیا عشق تیرا"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000736_1": {
   "language": "ur",
   "language_probability": 0.46,
-  "text": "تیرے سنگ پر دو فرق کو ہسنا جو چاہے تو رولا کے گیا عشق تیرا رولا کے گیا عشق تیرا"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000738_0": {
   "language": "en",
@@ -3444,22 +3694,26 @@
  "000750_0": {
   "language": "en",
   "language_probability": 0.83,
-  "text": "Only in my mansion Kissing I hope they caught us What are they like?"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000750_1": {
   "language": "en",
   "language_probability": 0.83,
-  "text": "Only in my mansion Kissing I hope they caught us What are they like?"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000754_0": {
   "language": "en",
   "language_probability": 0.62,
-  "text": "This is all we do, we dance until the morning go to bed, we won't sleep"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000754_1": {
   "language": "en",
   "language_probability": 0.62,
-  "text": "This is all we do, we dance until the morning go to bed, we won't sleep"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000755_0": {
   "language": "en",
@@ -3509,37 +3763,44 @@
  "000769_1": {
   "language": "en",
   "language_probability": 0.76,
-  "text": "Lasers but you"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000770_0": {
   "language": "en",
   "language_probability": 0.73,
-  "text": "places where you"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000770_1": {
   "language": "en",
   "language_probability": 0.73,
-  "text": "places where you"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000775_0": {
   "language": "hi",
   "language_probability": 0.69,
-  "text": "पुर्के आदि, रित के तरहा"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000775_1": {
   "language": "hi",
   "language_probability": 0.69,
-  "text": "पुर्के आदि, रित के तरहा"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000776_0": {
   "language": "en",
   "language_probability": 0.41,
-  "text": "Yeah"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000776_1": {
   "language": "en",
   "language_probability": 0.41,
-  "text": "Yeah"
+  "text": "",
+  "note": "cleared: not dialogue"
  },
  "000777_0": {
   "language": "en",

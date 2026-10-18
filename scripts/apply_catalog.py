@@ -48,7 +48,7 @@ for e in json.load(open(entries_path, encoding="utf-8")):
         renames[f"media/{old}"] = f"media/{new}"
     post = int(key.split("_")[0])
     catalog[key] = {"key": key, "file": f"media/{new}", "post": post,
-                    "link": f"https://t.me/Meme_Template_bd/{post}", "caption": captions.get(post, ""), **e}
+                    "link": f"https://t.me/{os.path.basename(os.path.normpath(archive))}/{post}", "caption": captions.get(post, ""), **e}
 
 for p in index:
     p["media"] = [renames.get(m, m) for m in p["media"]]
