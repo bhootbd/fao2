@@ -79,6 +79,9 @@ def main():
     if os.path.exists(catalog_path):
         renamed = {c["key"]: os.path.basename(c["file"]) for c in json.load(open(catalog_path, encoding="utf-8"))}
 
+    removed_path = os.path.join(out, "removed.json")
+    removed = {r["key"] for r in json.load(open(removed_path, encoding="utf-8")) if r.get("key")} if os.path.exists(removed_path) else set()
+
     before = None
     while True:
         url = f"https://t.me/s/{channel}" + (f"?before={before}" if before else "")
@@ -103,6 +106,8 @@ def main():
             }
             urls = [(u, ".jpg") for u in PHOTO_RE.findall(block)] + [(u, ".mp4") for u in VIDEO_RE.findall(block)]
             for n, (murl, default_ext) in enumerate(urls):
+                if f"{pid:06d}_{n}" in removed:  # deleted as a duplicate
+                    continue
                 name = f"{pid:06d}_{n}{ext_of(murl, default_ext)}"
                 # Files may have been renamed (see catalog.json); reuse that name
                 if renamed.get(f"{pid:06d}_{n}"):
