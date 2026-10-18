@@ -12,6 +12,11 @@ from faster_whisper import WhisperModel
 
 media, out, shard, shards = sys.argv[1], sys.argv[2], int(sys.argv[3]), int(sys.argv[4])
 files = sorted(f for f in os.listdir(media) if f.endswith(".mp4"))[shard::shards]
+# Optionally skip files already transcribed without error in an existing transcripts file
+skip_path = os.environ.get("SKIP_JSON")
+if skip_path and os.path.exists(skip_path):
+    done = {k for k, v in json.load(open(skip_path, encoding="utf-8")).items() if "error" not in v}
+    files = [f for f in files if f.split("__")[0].rsplit(".", 1)[0] not in done]
 model = WhisperModel(os.environ.get("WHISPER_MODEL", "medium"), device="cpu", compute_type="int8")
 
 def key(name):

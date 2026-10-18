@@ -1,0 +1,70 @@
+name: Transcribe videos
+
+on:
+  push:
+    branches: [claude/pensive-newton-1m0wgi]
+    paths: [scripts/transcribe.py, .github/workflows/transcribe.yml]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  transcribe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 340
+    strategy:
+      fail-fast: false
+      matrix:
+        shard: [0, 1, 2, 3, 4, 5, 6, 7]
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            scripts
+            archive/ig_meme_templatesofficial/media
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install faster-whisper==1.1.1 "av<14" requests
+      - run: python scripts/transcribe.py archive/ig_meme_templatesofficial/media transcripts_${{ matrix.shard }}.json ${{ matrix.shard }} 8
+      - uses: actions/upload-artifact@v4
+        with:
+          name: transcripts-${{ matrix.shard }}
+          path: transcripts_${{ matrix.shard }}.json
+
+  merge:
+    needs: transcribe
+    if: always()
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: scripts
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: transcripts-*
+          merge-multiple: true
+      - name: Merge and commit
+        run: |
+          mkdir -p archive/ig_meme_templatesofficial
+          python3 - <<'PY'
+          import glob, json
+          merged = {}
+          for f in sorted(glob.glob("transcripts_*.json")):
+              merged.update(json.load(open(f, encoding="utf-8")))
+          with open("archive/ig_meme_templatesofficial/transcripts.json", "w", encoding="utf-8") as f:
+              json.dump(dict(sorted(merged.items())), f, ensure_ascii=False, indent=1)
+          print(len(merged), "transcripts")
+          ok = sum(1 for v in merged.values() if "error" not in v)
+          print(ok, "transcribed without error")
+          if not ok:
+              raise SystemExit("no transcripts produced")
+          PY
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git sparse-checkout add archive/ig_meme_templatesofficial/transcripts.json 2>/dev/null || true
+          git add -f archive/ig_meme_templatesofficial/transcripts.json
+          git commit -m "Add video transcripts"
+          git pull --rebase
+          git push
